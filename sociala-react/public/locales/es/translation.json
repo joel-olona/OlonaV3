@@ -1,0 +1,32 @@
+{
+  "login": {
+    "title": "Iniciar sesión en tu cuenta",
+    "email": "Tu dirección de correo",
+    "password": "Contraseña",
+    "remember": "Recordarme",
+    "forgot": "¿Olvidaste tu contraseña?",
+    "loginBtn": "Iniciar sesión",
+    "noAccount": "¿No tienes cuenta?",
+    "register": "Registrarse",
+    "or": "O, inicia sesión con tu cuenta social",
+    "google": "Iniciar sesión con Google",
+    "facebook": "Iniciar sesión con Facebook"
+  },
+  "nav": {
+    "home": "Inicio",
+    "stories": "Historias",
+    "groups": "Grupos",
+    "newsfeed": "Noticias",
+    "badges": "Insignias",
+    "explore": "Explorar Historias",
+    "popular": "Grupos Populares",
+    "profile": "Perfil del Autor",
+    "settings": "Configuración",
+    "analytics": "Análisis",
+    "chat": "Chat"
+  },
+  "header": {
+    "search": "Empieza a escribir para buscar..",
+    "notifications": "Notificaciones"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "login": {
+    "title": "In Ihr Konto einloggen",
+    "email": "Ihre E-Mail-Adresse",
+    "password": "Passwort",
+    "remember": "Angemeldet bleiben",
+    "forgot": "Passwort vergessen?",
+    "loginBtn": "Anmelden",
+    "noAccount": "Noch kein Konto",
+    "register": "Registrieren",
+    "or": "Oder melden Sie sich mit Ihrem Social-Media-Konto an",
+    "google": "Mit Google anmelden",
+    "facebook": "Mit Facebook anmelden"
+  },
+  "nav": {
+    "home": "Startseite",
+    "stories": "Geschichten",
+    "groups": "Gruppen",
+    "newsfeed": "Neuigkeiten",
+    "badges": "Abzeichen",
+    "explore": "Geschichten erkunden",
+    "popular": "Beliebte Gruppen",
+    "profile": "Autorenprofil",
+    "settings": "Einstellungen",
+    "analytics": "Analysen",
+    "chat": "Chat"
+  },
+  "header": {
+    "search": "Tippen Sie, um zu suchen..",
+    "notifications": "Benachrichtigungen"
+  }
+}

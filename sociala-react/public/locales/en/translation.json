@@ -1,0 +1,379 @@
+{
+  "createPost": {
+    "create": "Create Post",
+    "placeholder": "What's on your mind?",
+    "liveVideo": "Live Video",
+    "photoVideo": "Photo/Video",
+    "activity": "Feeling/Activity",
+    "menu": {
+      "saveLink": "Save Link",
+      "saveLinkDesc": "Add this to your saved items",
+      "hidePost": "Hide Post",
+      "hidePostDesc": "Save to your saved items",
+      "hideGroup": "Hide all from Group",
+      "hideGroupDesc": "Save to your saved items",
+      "unfollowGroup": "Unfollow Group",
+      "unfollowGroupDesc": "Save to your saved items"
+    }
+  },
+  "post": {
+    "timeAgo": {
+      "min": "min ago",
+      "hour": "hour ago"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "stories": "Stories",
+    "groups": "Groups",
+    "newsfeed": "Newsfeed",
+    "badges": "Badges",
+    "explore": "Explore Stories",
+    "popular": "Popular Groups",
+    "profile": "Author Profile",
+    "settings": "Settings",
+    "analytics": "Analytics",
+    "chat": "Chat",
+    "email": "Email Box",
+    "hotels": "Near Hotel",
+    "events": "Latest Event",
+    "live": "Live Stream"
+  },
+  "header": {
+    "search": "Start typing to search..",
+    "notifications": "Notifications"
+  },
+  "badge": {
+    "title": "Badge",
+    "connections": "Connections",
+    "follower": "Follower",
+    "followings": "Followings",
+    "follow": "FOLLOW"
+  },
+  "chat": {
+    "input": {
+      "placeholder": "Start typing..",
+      "send": "Send message",
+      "voice": "Voice message"
+    },
+    "messages": {
+      "seen": "Seen",
+      "sent": "Sent",
+      "delivered": "Delivered",
+      "defaultGreeting": "Hey mate! How are things going ?",
+      "fileRequest": "I want those files for you. I want you to send 1 PDF and 1 image file.",
+      "coolPhotos": "I've found some cool photos for our travel app.",
+      "fineResponse": "I'm fine, how are you."
+    }
+  },
+  "notifications": {
+    "title": "Notification",
+    "actions": {
+      "save": "Save notifications",
+      "alert": "Alert settings",
+      "clear": "Clear all"
+    },
+    "timeFormat": {
+      "minuteAgo": "minute ago",
+      "minutesAgo": "minutes ago",
+      "hourAgo": "hour ago",
+      "hoursAgo": "hours ago"
+    },
+    "message": {
+      "posted": "posted in",
+      "liked": "liked",
+      "commented": "commented on"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "sections": {
+      "general": "General",
+      "account": "Account",
+      "other": "Other"
+    },
+    "menu": {
+      "accountInfo": "Account Information",
+      "savedAddress": "Saved Address",
+      "socialAccount": "Social Account",
+      "myCards": "My Cards",
+      "password": "Password",
+      "notification": "Notification",
+      "help": "Help",
+      "logout": "Logout"
+    }
+  },
+  "cart": {
+    "title": "Cart",
+    "productsFound": "PRODUCT FOUND",
+    "table": {
+      "product": "Product",
+      "price": "Price",
+      "quantity": "Quantity",
+      "total": "Total"
+    },
+    "coupon": {
+      "placeholder": "Coupon Code..",
+      "apply": "Apply Coupon"
+    },
+    "actions": {
+      "update": "Update Cart",
+      "proceed": "Proceed To Checkout"
+    },
+    "totals": {
+      "title": "Cart totals",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "flatRate": "Flat rate",
+      "total": "Total"
+    }
+  },
+  "profile": {
+    "privacy": {
+      "private": "Private",
+      "privateDesc": "What's up, how are you?",
+      "visible": "Visible",
+      "visibleDesc": "Anyone can find you"
+    },
+    "headings": {
+      "about": "About"
+    },
+    "actions": {
+      "addFriend": "Add Friend",
+      "sendMessage": "Send Message",
+      "more": "More Options"
+    },
+    "menu": {
+      "saveLink": "Save Link",
+      "saveLinkDesc": "Add this to your saved items",
+      "hidePost": "Hide Post",
+      "hidePostDesc": "Save to your saved items",
+      "hideGroup": "Hide all from Group",
+      "hideGroupDesc": "Save to your saved items",
+      "unfollow": "Unfollow Group",
+      "unfollowDesc": "Save to your saved items"
+    },
+    "tabs": {
+      "about": "About",
+      "membership": "Membership",
+      "discussion": "Discussion",
+      "video": "Video",
+      "group": "Group",
+      "events": "Events",
+      "media": "Media"
+    }
+  },
+  "analytics": {
+    "banner": {
+      "title": "Set up your Social website with Sociala",
+      "description": "After completing this course you'll be confident to create any subtle to complex animation that will turn any project a professional work.",
+      "button": "Analysis"
+    },
+    "stats": {
+      "visitors": {
+        "title": "day visiter",
+        "value": "2.3M"
+      },
+      "users": {
+        "title": "total user",
+        "value": "44.6K"
+      },
+      "sales": {
+        "title": "monthly sale",
+        "value": "603"
+      },
+      "traffic": {
+        "title": "day visiter",
+        "value": "3M"
+      }
+    },
+    "chart": {
+      "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+    }
+  },
+  "hotel": {
+    "title": "Hotels",
+    "featured": "Featured",
+    "details": {
+      "amenities": {
+        "area": "sq",
+        "wifi": "WiFi",
+        "card": "Card"
+      },
+      "price": {
+        "perMonth": "/ mo"
+      }
+    },
+    "rating": {
+      "stars": "stars"
+    },
+    "actions": {
+      "bookmark": "Bookmark hotel",
+      "viewDetails": "View hotel details"
+    }
+  },
+  "event": {
+    "title": "Events",
+    "location": {
+      "prefix": "Location:"
+    },
+    "members": {
+      "more": "+2"
+    },
+    "actions": {
+      "apply": "APPLY",
+      "viewDetails": "View event details",
+      "viewMembers": "View event members"
+    },
+    "map": {
+      "marker": "Event Location"
+    }
+  },
+  "live": {
+    "status": "LIVE",
+    "actions": {
+      "grid": "Toggle grid view",
+      "mic": "Toggle microphone",
+      "endCall": "End call",
+      "camera": "Toggle camera",
+      "settings": "Open settings"
+    },
+    "chat": {
+      "title": "Live Chat",
+      "input": {
+        "placeholder": "Start typing..",
+        "voice": "Voice message",
+        "send": "Send message"
+      },
+      "messages": {
+        "you": "You",
+        "delivered": "Delivered",
+        "time": "01:35 PM"
+      }
+    }
+  },
+  "stories": {
+    "title": "Stories",
+    "actions": {
+      "create": "Create Story",
+      "view": "View Story",
+      "share": "Share Story",
+      "delete": "Delete Story"
+    },
+    "status": {
+      "new": "New",
+      "seen": "Seen",
+      "expired": "Expired"
+    },
+    "timeFormat": {
+      "hoursLeft": "hours left",
+      "minutesLeft": "minutes left",
+      "expired": "Expired"
+    }
+  },
+  "group": {
+    "title": "Group",
+    "actions": {
+      "follow": "FOLLOW",
+      "video": "Start video call",
+      "join": "Join group",
+      "leave": "Leave group"
+    },
+    "members": {
+      "title": "Members",
+      "online": "Online",
+      "offline": "Offline",
+      "admin": "Admin",
+      "member": "Member"
+    },
+    "info": {
+      "email": "Email",
+      "members": "Members",
+      "posts": "Posts",
+      "created": "Created"
+    }
+  },
+  "email": {
+    "subject": "Mobile App Design",
+    "defaultMessage": "Hey Cak, Could you free now? Can you look and read the brief first before.",
+    "status": {
+      "online": "Online",
+      "offline": "Offline"
+    },
+    "actions": {
+      "star": "Star email",
+      "attachment": "Has attachment",
+      "select": "Select email"
+    },
+    "labels": {
+      "inbox": "Inbox",
+      "sent": "Sent",
+      "draft": "Draft",
+      "trash": "Trash",
+      "spam": "Spam"
+    }
+  },
+  "register": {
+    "title": "Create your account",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "terms": "Accept Term and Conditions",
+      "submit": "Register"
+    },
+    "haveAccount": "Already have account",
+    "loginLink": "Login"
+  },
+  "demo": {
+    "navigation": {
+      "features": "Features",
+      "demo": "Demo",
+      "contact": "Contact",
+      "buyNow": "Buy Now"
+    },
+    "banner": {
+      "title": "Set up your Social website with Sociala.",
+      "stats": {
+        "demos": "Demo Websites",
+        "widgets": "Custom Widgets",
+        "components": "Awesome Components",
+        "pages": "Others Inner Pages"
+      },
+      "seeDemos": "See DEMOs"
+    },
+    "features": {
+      "title": "Awesome Components Ready Elements and Templates.",
+      "description": "Sociala powers thousands of apps at some of the smartest companies around the world. Be a part of professional community.",
+      "components": "Components"
+    },
+    "mobile": {
+      "title": "Mobile Optimize Design for any Device",
+      "description": "With beautifully designed custom post types to show off your works and collections. Sociala powers thousands of apps at some of the smartest companies around the world. Be a part of professional community",
+      "seeDemo": "See Demo"
+    },
+    "chooseDemo": {
+      "title": "Choose Demo",
+      "description": "Create a really awesome website, choose the version that will suit your requirements in a best way."
+    },
+    "contact": {
+      "title": "Beautiful designs to get you started",
+      "description": "Create a really awesome website, choose the version that will suit your requirements in a best way.",
+      "purchase": "PURCHASE NOW"
+    }
+  },
+  "login": {
+    "title": "Login into your account",
+    "email": "Your Email Address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot your Password?",
+    "loginBtn": "Login",
+    "noAccount": "Don't have account",
+    "register": "Register",
+    "or": "Or, Sign in with your social account",
+    "google": "Sign in with Google",
+    "facebook": "Sign in with Facebook"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "login": {
+    "title": "Accedi al tuo account",
+    "email": "Il tuo indirizzo email",
+    "password": "Password",
+    "remember": "Ricordami",
+    "forgot": "Hai dimenticato la password?",
+    "loginBtn": "Accedi",
+    "noAccount": "Non hai un account",
+    "register": "Registrati",
+    "or": "Oppure, accedi con il tuo account social",
+    "google": "Accedi con Google",
+    "facebook": "Accedi con Facebook"
+  },
+  "nav": {
+    "home": "Home",
+    "stories": "Storie",
+    "groups": "Gruppi",
+    "newsfeed": "Notizie",
+    "badges": "Badge",
+    "explore": "Esplora Storie",
+    "popular": "Gruppi Popolari",
+    "profile": "Profilo Autore",
+    "settings": "Impostazioni",
+    "analytics": "Analisi",
+    "chat": "Chat"
+  },
+  "header": {
+    "search": "Inizia a digitare per cercare..",
+    "notifications": "Notifiche"
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "badge": {
+    "title": "Badge",
+    "connections": "Connexions",
+    "follower": "Abonné",
+    "followings": "Abonnements",
+    "follow": "SUIVRE"
+  },
+  "profile": {
+    "privacy": {
+      "private": "Privé",
+      "privateDesc": "Quoi de neuf, comment allez-vous ?",
+      "visible": "Visible",
+      "visibleDesc": "Tout le monde peut vous trouver"
+    },
+    "headings": {
+      "about": "À propos"
+    },
+    "actions": {
+      "addFriend": "Ajouter un ami",
+      "sendMessage": "Envoyer un message",
+      "more": "Plus d'options"
+    },
+    "menu": {
+      "saveLink": "Enregistrer le lien",
+      "saveLinkDesc": "Ajouter à vos éléments enregistrés",
+      "hidePost": "Masquer la publication",
+      "hidePostDesc": "Enregistrer dans vos éléments",
+      "hideGroup": "Masquer tout du groupe",
+      "hideGroupDesc": "Enregistrer dans vos éléments",
+      "unfollow": "Ne plus suivre le groupe",
+      "unfollowDesc": "Enregistrer dans vos éléments"
+    },
+    "tabs": {
+      "about": "À propos",
+      "membership": "Adhésion",
+      "discussion": "Discussion",
+      "video": "Vidéo",
+      "group": "Groupe",
+      "events": "Événements",
+      "media": "Médias"
+    }
+  },
+  "analytics": {
+    "banner": {
+      "title": "Configurez votre site social avec Sociala",
+      "description": "Après avoir terminé ce cours, vous serez en mesure de créer n'importe quelle animation subtile ou complexe qui transformera tout projet en un travail professionnel.",
+      "button": "Analyser"
+    },
+    "stats": {
+      "visitors": {
+        "title": "visiteurs par jour",
+        "value": "2.3M"
+      },
+      "users": {
+        "title": "utilisateurs total",
+        "value": "44.6K"
+      },
+      "sales": {
+        "title": "ventes mensuelles",
+        "value": "603"
+      },
+      "traffic": {
+        "title": "visiteurs par jour",
+        "value": "3M"
+      }
+    },
+    "chart": {
+      "months": ["Jan", "Fév", "Mar", "Avr", "Mai", "Juin", "Juil", "Aoû", "Sep", "Oct", "Nov", "Déc"]
+    }
+  },
+  "hotel": {
+    "title": "Hôtels",
+    "featured": "En vedette",
+    "details": {
+      "amenities": {
+        "area": "m2",
+        "wifi": "WiFi",
+        "card": "Carte"
+      },
+      "price": {
+        "perMonth": "/ mois"
+      }
+    },
+    "rating": {
+      "stars": "étoiles"
+    },
+    "actions": {
+      "bookmark": "Marquer l'hôtel",
+      "viewDetails": "Voir les détails de l'hôtel"
+    }
+  },
+  "event": {
+    "title": "Événements",
+    "location": {
+      "prefix": "Lieu :"
+    },
+    "members": {
+      "more": "+2"
+    },
+    "actions": {
+      "apply": "PARTICIPER",
+      "viewDetails": "Voir les détails de l'événement",
+      "viewMembers": "Voir les participants"
+    },
+    "map": {
+      "marker": "Lieu de l'événement"
+    }
+  },
+  "live": {
+    "status": "EN DIRECT",
+    "actions": {
+      "grid": "Basculer la vue grille",
+      "mic": "Activer/désactiver le microphone",
+      "endCall": "Terminer l'appel",
+      "camera": "Activer/désactiver la caméra",
+      "settings": "Ouvrir les paramètres"
+    },
+    "chat": {
+      "title": "Chat en direct",
+      "input": {
+        "placeholder": "Commencez à taper..",
+        "voice": "Message vocal",
+        "send": "Envoyer le message"
+      },
+      "messages": {
+        "you": "Vous",
+        "delivered": "Envoyé",
+        "time": "13h35"
+      }
+    }
+  },
+  "stories": {
+    "title": "Stories",
+    "actions": {
+      "create": "Créer une story",
+      "view": "Voir la story",
+      "share": "Partager la story",
+      "delete": "Supprimer la story"
+    },
+    "status": {
+      "new": "Nouveau",
+      "seen": "Vu",
+      "expired": "Expiré"
+    },
+    "timeFormat": {
+      "hoursLeft": "heures restantes",
+      "minutesLeft": "minutes restantes",
+      "expired": "Expiré"
+    }
+  },
+  "group": {
+    "title": "Groupe",
+    "actions": {
+      "follow": "SUIVRE",
+      "video": "Démarrer l'appel vidéo",
+      "join": "Rejoindre le groupe",
+      "leave": "Quitter le groupe"
+    },
+    "members": {
+      "title": "Membres",
+      "online": "En ligne",
+      "offline": "Hors ligne",
+      "admin": "Administrateur",
+      "member": "Membre"
+    },
+    "info": {
+      "email": "Email",
+      "members": "Membres",
+      "posts": "Publications",
+      "created": "Créé le"
+    }
+  },
+  "email": {
+    "subject": "Design d'application mobile",
+    "defaultMessage": "Salut, es-tu disponible ? Peux-tu lire le brief d'abord ?",
+    "status": {
+      "online": "En ligne",
+      "offline": "Hors ligne"
+    },
+    "actions": {
+      "star": "Marquer d'une étoile",
+      "attachment": "Contient une pièce jointe",
+      "select": "Sélectionner l'email"
+    },
+    "labels": {
+      "inbox": "Boîte de réception",
+      "sent": "Envoyés",
+      "draft": "Brouillons",
+      "trash": "Corbeille",
+      "spam": "Spam"
+    }
+  },
+  "notifications": {
+    "title": "Notifications",
+    "actions": {
+      "save": "Enregistrer les notifications",
+      "alert": "Paramètres d'alerte",
+      "clear": "Tout effacer"
+    },
+    "timeFormat": {
+      "minuteAgo": "minute",
+      "minutesAgo": "minutes",
+      "hourAgo": "heure",
+      "hoursAgo": "heures"
+    },
+    "message": {
+      "posted": "a publié dans",
+      "liked": "a aimé",
+      "commented": "a commenté sur"
+    }
+  },
+  "settings": {
+    "title": "Paramètres",
+    "sections": {
+      "general": "Général",
+      "account": "Compte",
+      "other": "Autre"
+    },
+    "menu": {
+      "accountInfo": "Informations du compte",
+      "savedAddress": "Adresses enregistrées",
+      "socialAccount": "Compte social",
+      "myCards": "Mes cartes",
+      "password": "Mot de passe",
+      "notification": "Notification",
+      "help": "Aide",
+      "logout": "Déconnexion"
+    }
+  },
+  "cart": {
+    "title": "Panier",
+    "productsFound": "PRODUITS TROUVÉS",
+    "table": {
+      "product": "Produit",
+      "price": "Prix",
+      "quantity": "Quantité",
+      "total": "Total"
+    },
+    "coupon": {
+      "placeholder": "Code promo..",
+      "apply": "Appliquer"
+    },
+    "actions": {
+      "update": "Mettre à jour le panier",
+      "proceed": "Procéder au paiement"
+    },
+    "totals": {
+      "title": "Total du panier",
+      "subtotal": "Sous-total",
+      "shipping": "Livraison",
+      "flatRate": "Tarif fixe",
+      "total": "Total"
+    }
+  },
+  "createPost": {
+    "create": "Créer une publication",
+    "placeholder": "Que voulez-vous partager ?",
+    "liveVideo": "Vidéo en direct",
+    "photoVideo": "Photo/Vidéo",
+    "activity": "Humeur/Activité",
+    "menu": {
+      "saveLink": "Enregistrer le lien",
+      "saveLinkDesc": "Ajouter à vos éléments enregistrés",
+      "hidePost": "Masquer la publication",
+      "hidePostDesc": "Enregistrer dans vos éléments",
+      "hideGroup": "Masquer tout du groupe",
+      "hideGroupDesc": "Enregistrer dans vos éléments",
+      "unfollowGroup": "Ne plus suivre le groupe",
+      "unfollowGroupDesc": "Enregistrer dans vos éléments"
+    }
+  },
+  "post": {
+    "timeAgo": {
+      "min": "minutes",
+      "hour": "heures"
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "stories": "Stories",
+    "groups": "Groupes",
+    "newsfeed": "Fil d'actualité",
+    "badges": "Badges",
+    "explore": "Explorer les stories",
+    "popular": "Groupes populaires",
+    "profile": "Profil de l'auteur",
+    "settings": "Paramètres",
+    "analytics": "Analyses",
+    "chat": "Discussion",
+    "email": "Boîte mail",
+    "hotels": "Hôtels à proximité",
+    "events": "Événements récents",
+    "live": "Direct"
+  },
+  "header": {
+    "search": "Commencez à taper pour rechercher..",
+    "notifications": "Notifications"
+  },
+  "demo": {
+    "navigation": {
+      "features": "Fonctionnalités",
+      "demo": "Démo",
+      "contact": "Contact",
+      "buyNow": "Acheter"
+    },
+    "banner": {
+      "title": "Créez votre site social avec Sociala.",
+      "stats": {
+        "demos": "Sites de démo",
+        "widgets": "Widgets personnalisés",
+        "components": "Composants géniaux",
+        "pages": "Autres pages internes"
+      },
+      "seeDemos": "Voir les DÉMOs"
+    },
+    "features": {
+      "title": "Composants et modèles prêts à l'emploi.",
+      "description": "Sociala alimente des milliers d'applications dans certaines des entreprises les plus intelligentes du monde. Faites partie de la communauté professionnelle.",
+      "components": "Composants"
+    },
+    "mobile": {
+      "title": "Design optimisé pour mobile sur tous les appareils",
+      "description": "Avec des types de publications magnifiquement conçus pour présenter vos travaux et collections. Sociala alimente des milliers d'applications dans certaines des entreprises les plus intelligentes du monde. Faites partie de la communauté professionnelle",
+      "seeDemo": "Voir la démo"
+    },
+    "chooseDemo": {
+      "title": "Choisissez une démo",
+      "description": "Créez un site Web vraiment impressionnant, choisissez la version qui répondra le mieux à vos besoins."
+    },
+    "contact": {
+      "title": "De beaux designs pour commencer",
+      "description": "Créez un site Web vraiment impressionnant, choisissez la version qui répondra le mieux à vos besoins.",
+      "purchase": "ACHETER MAINTENANT"
+    }
+  },
+  "login": {
+    "title": "Connectez-vous à votre compte",
+    "email": "Votre adresse e-mail",
+    "password": "Mot de passe",
+    "remember": "Se souvenir de moi",
+    "forgot": "Mot de passe oublié ?",
+    "loginBtn": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte",
+    "register": "S'inscrire",
+    "or": "Ou, connectez-vous avec votre compte social",
+    "google": "Se connecter avec Google",
+    "facebook": "Se connecter avec Facebook"
+  }
+}
